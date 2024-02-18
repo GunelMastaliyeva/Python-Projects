@@ -1,9 +1,4 @@
-'''
-####Program that calculates and displays area of triangle.
-##Name: Gunel Mastaliyeva
-##Class: CIS-2531 NET01
-Date: 1/23/2024
-'''
+
 #Program introduction
 print("Welcome to my program!")
 
