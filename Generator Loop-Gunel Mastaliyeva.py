@@ -1,9 +1,3 @@
-'''
-Program to use the concept of looping to enter each generator's test results and display the average voltage for each.
-Name: Gunel Mastaliyeva
-Date: 02/09/2024
-Class: CIS-2531
-'''
 
 #Program introduction for the user
 print("Welcome! This program will calculate the output voltage average of your generators.")
