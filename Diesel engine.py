@@ -1,11 +1,3 @@
-'''
-This program demonstrates computer aided troubleshooting of diesel engine.
-
-Name: Gunel Mastaliyeva
-Date: 02/04/2024
-Course: CIS-2531
-
-'''
 
 import sys
 
